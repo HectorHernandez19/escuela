@@ -1,4 +1,4 @@
-package learning.java.school;
+package learning.java.school.model;
 
 public class Professor {
     private String name;
@@ -11,4 +11,5 @@ public class Professor {
     public void setName(String name) {
         this.name = name;
     }
+
 }
